@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "detectRUNS",
+    "oncran": true
+  }
+]
